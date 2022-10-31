@@ -1,5 +1,13 @@
-package com.generation;// programa para jugar piedra, papel o tijeras ingresando su seleccion cada jugador.
+package com.generation;
 
+/*programa para jugar piedra,papel o tijeras 
+ * pidinedo en el escaner un string
+ * que luego se compara en un if 
+ * para el empate y elige al ganador
+ *  en un comando switch con las 
+ *  tres pricnipales conbinaciones 
+ *  ingresando su seleccion cada jugador.
+*/
 import java.util.*; // importe para usar las clases.
 
 public class Codigo4 {
